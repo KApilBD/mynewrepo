@@ -6,3 +6,5 @@ np_x=np.array(x)
 
 print(type(np_x))
 print(np_x)
+
+print(np_x[2,8])
